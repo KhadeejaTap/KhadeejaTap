@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Khadeeja
-- 👀 I’m a high school senior interested in computer science and software engineering
-- 🌱 I’m currently learning web development
 - 📫 How to reach me by email: ktap1000@gmail.com
 
 <!---
